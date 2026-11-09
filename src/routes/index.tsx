@@ -8,7 +8,7 @@ export const Route = createFileRoute("/")({
     meta: [
       { title: "Chinmayee Bidaye — Computer Vision & Robotics Engineer" },
       { name: "description", content: "Computer vision, robotic task planning and AI systems by Chinmayee Bidaye, MS CS at UMass Lowell." },
-      { property: "og:title", content: "Chinmayee Bidaye — Computer Vision & Robotics Engineer" },
+      { property: "og:title", content: "Chinmayee Bidaye" },
       { property: "og:description", content: "Production CV models, HTN robot planning research and real-time assistive AI." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
